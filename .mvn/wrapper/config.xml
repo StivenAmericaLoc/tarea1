@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AppConfiguration>
+<MainDBURL>jdbc:mysql://104.238.72.39/locator?allowPublicKeyRetrieval=true&#038;useSSL=false</MainDBURL>
+<MainDBUser>crreport</MainDBUser>
+<MainDBPSW>n4v1d1*o7frt</MainDBPSW>
+<CustomerIds>853</CustomerIds>
+
+
+<ReportStatusURL>http://192.169.154.92:7100/AMERICALOC_HTTPSTATUS/updatestatus_json.jsp</ReportStatusURL>
+<ReportStatusPsw>O4land4f1</ReportStatusPsw>
+<ReportStatusId>81</ReportStatusId>
+
+<SheetId>1U-ogmTf1u6sKPp-JcaEOnycbgNHu06c8QcG8cy91U14</SheetId>
+<SheetName>Instalaciones CR LATAM</SheetName>
+</AppConfiguration>
