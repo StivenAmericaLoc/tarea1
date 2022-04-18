@@ -65,6 +65,13 @@
 			<artifactId>google-oauth-client-jetty</artifactId>
 			<version>1.32.1</version>
 		</dependency>
+		<dependency>
+			<groupId>mysql-connector-java-5.1.49-bin</groupId>
+			<artifactId>mysql-connector-java-5.1.49-bin</artifactId>
+			<scope>system</scope>
+			<version>5.1.49</version>
+			<systemPath>${basedir}/libs/mysql-connector-java-5.1.49-bin.jar</systemPath>
+		</dependency>
 	</dependencies>
 
 	<build>
