@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AppConfiguration>
-<MainDBURL>jdbc:mysql://104.238.72.39/locator?allowPublicKeyRetrieval=true&#038;useSSL=false</MainDBURL>
-<MainDBUser>crreport</MainDBUser>
-<MainDBPSW>n4v1d1*o7frt</MainDBPSW>
+<MainDBURL>jdbc:mysql://92.204.133.34/locator?allowPublicKeyRetrieval=true&#038;useSSL=false</MainDBURL>
+<MainDBUser>stivencol2710</MainDBUser>
+<MainDBPSW>B1oq4u3*d74g!</MainDBPSW>
 <CustomerIds>853</CustomerIds>
 
 
